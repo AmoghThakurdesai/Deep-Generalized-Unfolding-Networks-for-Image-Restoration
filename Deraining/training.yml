@@ -11,7 +11,7 @@ MODEL:
   SESSION: 'DGUNet'
 # Optimization arguments.
 OPTIM:
-  BATCH_SIZE: 16
+  BATCH_SIZE: 1
   NUM_EPOCHS: 250
   # NEPOCH_DECAY: [10]
   LR_INITIAL: 2e-4
